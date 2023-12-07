@@ -1,8 +1,8 @@
 ### Installation:
 
 1. Follow the pre-requisites to set up Telegram here: https://www.notion.so/neillzero/Coding-Telegram-Bots-intro-workshop-fdaa9fb61f5b4e85a0536890724df703
-2. Go to Dashlane and search for Riley Telegram Bot Access Token and copy the access token
-3. store the BOT_TOKEN in your new `.env` file
+2. Go to Dashlane and search for `Riley Telegram Bot Access Token` and copy the access token there
+3. store the `BOT_TOKEN` in a new `.env` file
 
 More detail is available in the workshop notes.
 
